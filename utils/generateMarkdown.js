@@ -46,6 +46,36 @@ function generateMarkdown(data) {
 
   *[Usage](#usage)
   ${renderLicenseLink(data.license)}
+  *[Contributing](#contributing)
+
+  *[Tests](#questions)
+
+  ## Installing Instructions
+
+  In order to install necessary components, run this command:
+
+  \`\`\`
+  ${data.installation}
+  \`\`\`
+
+  ## Usage 
+
+  ${data.usage}
+
+  ${renderLicenseSection(data.license)}
+
+  ## Contributers
+
+  ${data.contributing}
+
+  ## Test
+
+  Run this command to test:
+
+  \`\`\` 
+  ${data.test}
+  \`\`\`
+
 `;
 }
 
