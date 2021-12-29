@@ -2,9 +2,10 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if(license !== `None`){
-    return `![GitHub license](https://img.sheilds.io)`
+  if(license !== 'None'){
+    return `![GitHub license](https://img.shields.io/github/license/<Github-Username>/<Repository>)`;
   }
+  return'';
 }
 
 // TODO: Create a function that returns the license link
