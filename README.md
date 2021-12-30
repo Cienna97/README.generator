@@ -5,7 +5,7 @@
 
   ## Description
 
-  This appliction will help users save time on their repos by creating their repo for them when you add some information in the command line 
+  This project will allow users creating new repos to quickly and easily write a README to save them time
 
   ## Table of Contents
 
@@ -27,13 +27,13 @@
 
   ## Usage 
 
-  This repo will save you time!
+  The user should know that this application is awesome and will save you time!
 
   
 
   ## Contributers
 
-  This repo is up and running!
+  Any user that will be contributing to this repo should know that if you want your README to be more descriptive you can add more sections into index.js
 
   ## Test
 
