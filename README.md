@@ -1,11 +1,11 @@
-# README.GENERATOR
-  ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# README.generator
+  
 
   ## Project Title
 
   ## Description
 
-  creates a README for your repo to save you time, so you have more time to work on your project
+  This appliction will help users save time on their repos by creating their repo for them when you add some information in the command line 
 
   ## Table of Contents
 
@@ -13,8 +13,6 @@
 
   *[Usage](#usage)
   
-* [License](#license)
-
   *[Contributing](#contributing)
 
   *[Tests](#questions)
@@ -29,16 +27,13 @@
 
   ## Usage 
 
-  Its awesome!
+  This repo will save you time!
 
-  ## License
-    
-    To be licensed with the GPL 3.0
-    license.
+  
 
   ## Contributers
 
-  No more contributions needed 
+  This repo is up and running!
 
   ## Test
 
